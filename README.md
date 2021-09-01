@@ -1,2 +1,2 @@
-# Toy-examples
-Doing some sanity test and play with tools
+# Repository with toy examples
+Doing some sanity tests and play with different tools
